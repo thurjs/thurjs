@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Sou desenvolvedor focado em criar soluções modernas utilizando tecnologias atuais do mercado.  
-Atualmente estudo e desenvolvo projetos com Python, Kotlin, JavaScript, HTML, CSS, React, Next.js e Node.js.  
+Atualmente estudo e desenvolvo projetos com Python, Kotlin, JavaScript, HTML, CSS, React, Next.js, Node.js e SQL.  
 Busco sempre evoluir, escrever código limpo e entender a fundo cada tecnologia que uso.
 
 ---
@@ -73,6 +73,14 @@ Busco sempre evoluir, escrever código limpo e entender a fundo cada tecnologia 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <br/>
