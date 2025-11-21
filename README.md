@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Thur
+# 👨🏻‍💻 Arthur 
 
 **`Desenvolvedor FullStack`**
 
